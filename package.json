@@ -2,9 +2,9 @@
   "name": "coming-sssoon-page-master",
   "version": "1.0.0",
   "description": "coming soon website",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "Harjot Singh",
   "license": "ISC",
